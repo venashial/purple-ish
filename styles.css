@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    background-color: black;
+}
+
+#defaultCanvas0 {
+    width: 100% !important;
+    height: 100% !important;
+}
